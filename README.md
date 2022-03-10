@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sherlock991
 - 👀 I’m interested in MMA 🥋 Wrestling 🤼 Snowboarding 🏂 
-- 🌱 I’m currently learning CSS & HTML via the Responsive Web Design Certificate on Free Code Camp + French via Duo Lingo 
+- 🌱 I’m currently learning CSS & HTML via the Responsive Web Design Certificate on Free Code Camp 
 - 💞️ I’m looking to collaborate on not sure yet so hmu if you've got an idea
 - 📫 How to reach me send an email to scottholmesdigital@gmail.com
 
